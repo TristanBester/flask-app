@@ -4,3 +4,6 @@
 # Directories
 venv/
 __pycache__/
+
+# Database
+app.db
