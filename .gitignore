@@ -1,0 +1,6 @@
+# Files
+.flaskenv
+
+# Directories
+venv/
+__pycache__/
